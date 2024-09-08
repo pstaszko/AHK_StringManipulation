@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/pstaszko/AHK_StringManipulation",
+  "website": "https://github.com/pstaszko/AHK_StringManipulation",
+  "license": "MIT",
+  "issueTracker": "https://github.com/pstaszko/AHK_StringManipulation/issues",
+  "include": "StringManipulation.ahk",
+  "author": {
+    "name": "Paul Staszko",
+    "email": "paulstaszko@gmail.com",
+    "website": ""
+  },
+  "scripts": {},
+  "dependencies": {}
+}
